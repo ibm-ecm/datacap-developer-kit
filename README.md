@@ -1,6 +1,10 @@
 # datacap-developer-kit
 This repository is for the IBM Datacap Developer kit.
 
+IBM Datacap 9.1.8:
+The different development kit components have been provided in a single zip download. 
+Zip file name for IBM Datacap 9.1.8 Developer Kit is IBM-Datacap-DDK-9.1.8
+
 IBM Datacap 9.1.7:
 The different development kit components have been provided in a single zip download.
 
