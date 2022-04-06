@@ -22,3 +22,6 @@ Template for creating a compiled ruleset for Datacap Studio.
 
 Datacap-DDK-Sample-Applications.zip & Datacap-DDK-SampleApplications-9.1.6.zip
 Additional sample application for use with Datacap that demonstrate additional kinds of documents and processing.
+
+Datacap-Sample-Custom-Panel-Universal-9.1.8
+Created a sample custom panel of OOTB universal panel which can be modified as per the customer requirement.
