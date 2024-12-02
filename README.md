@@ -1,15 +1,15 @@
 # datacap-developer-kit
 This repository is for the IBM Datacap Developer kit.
 
-**IBM Datacap 9.1.9**
+IBM Datacap 9.1.9, 
 IBM Datacap 9.1.9 iFix 6:
 The development kits have been updated to be compatible with the IBM Datacap 9.1.9 iFix 6 release. (Mandatory to be built on top of IBM Datacap 9.1.9 ifix 006.)
 
-**IBM Datacap 9.1.9**
+IBM Datacap 9.1.9, 
 IBM Datacap 9.1.9 iFix 5:
 The development kits have been updated to be compatible with the IBM Datacap 9.1.9 iFix 5 release.
 
-**IBM Datacap 9.1.8**
+IBM Datacap 9.1.8, 
 IBM Datacap 9.1.8 iFix 4:
 The development kits have been updated to be compatible with the IBM Datacap 9.1.8 iFix 4 release.
 
