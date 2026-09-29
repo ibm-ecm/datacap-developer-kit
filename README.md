@@ -15,6 +15,10 @@ Following this approach helps ensure proper panel rendering and compatibility wi
 ----------------------------------------------------------
 This repository is for the IBM Datacap Developer kit.
 
+IBM Datacap 9.1.9, 
+IBM Datacap 9.1.9 iFix 9: 
+The development kits have been updated to be compatible with the IBM Datacap 9.1.9 iFix 8 release. (Mandatory to be built on top of IBM Datacap 9.1.9 ifix 009.)
+
 IBM Datacap 9.1.10, 
 IBM Datacap 9.1.10 iFix 1:
 The development kits have been updated to be compatible with the IBM Datacap 9.1.10 iFix 1 release. (Mandatory to be built on top of IBM Datacap 9.1.10 ifix 001.)
